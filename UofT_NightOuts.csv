@@ -1,0 +1,51 @@
+,index,yelpid,name,lat,lng,distance miles,price rating,price value,review count,review rating,type,sub type,address1,city,state,zip
+0,0,AVLj5MSJD1si-Rl6X6qTXQ,Rosewood Chinese Cuisine,43.6531088463227,-79.3967127799988,1133.4805209101783,$$,2,202,3.0,Chinese,Tapas/Small Plates,463 Dundas Street W,Toronto,ON,M5T 1G8
+1,1,xdfGzrJ1mx3mBx6m14Ebhw,Goldstone Noodle Restaurant,43.6521515722158,-79.3979640306885,1250.3036856452748,$,1,114,3.0,Chinese,Noodles,266 Spadina Avenue,Toronto,ON,M5T 2E4
+2,2,HSPMT3m9OOD4ypMO4wwOdg,Fresh On Front,43.648266,-79.374338,2395.92104696469,$$$,3,35,4.0,Vegetarian,n/a,47 Front Street E,Toronto,ON,M5E 1B3
+3,3,QrTvQw_aZOLk_8FZ8tQ_-w,The Bier Markt,43.64474,-79.39992,2076.8967878808835,$$,2,184,3.0,Bars,"Beer, Wine & Spirits",600 King St West,Toronto,ON,M5V 1M3
+4,4,XudwKA_sHWiFOxaHLbnfgA,Green Gene,43.65535,-79.3844,1263.8145373987404,NO $,0,1,4.0,Taiwanese,n/a,121 Dundas Street W,Toronto,ON,M5G
+5,5,eW5XvdP3ApHx9v76eYCffw,One Pear Cafe,43.65482,-79.38727,1157.6893780261018,NO $,0,37,2.5,Cafes,n/a,201 Dundas Street W,Toronto,ON,M5G 1C8
+6,6,98V9R-7YT20KmcmJyMiJmg,Il Fornello,43.64757,-79.38684,1888.9328840760074,$$,2,89,3.0,Italian,n/a,214 King Street W,Toronto,ON,M5H 3S6
+7,7,8BT-nH2aWf6nyIdK797OHA,Avant Gout Restaurant,43.67864,-79.39045,1757.6783618053385,NO $,0,14,3.5,French,n/a,1108 Yonge Street,Toronto,ON,M4W 2L6
+8,8,D87tFO-R6U8f4-e0r4Zq_g,Yorkville Crepes,43.6721931,-79.3878664,1174.9482564401667,$$,2,158,3.5,Creperies,Cafes,18 Yorkville Avenue,Toronto,ON,M4W 3Y8
+9,9,WmuoWetYC-4U2-V4taC6Wg,Yueh Tung Restaurant,43.6550882011083,-79.3851792651491,1243.3199272085517,$$,2,176,3.5,Hakka,Breakfast & Brunch,126 Elizabeth Street,Toronto,ON,M5G 1P5
+10,10,ANAPBJgCwEMg4ruYcQ-Law,Ravi Soups,43.6477,-79.39201,1769.603827552319,$$,2,55,4.0,Soup,n/a,322 Adelaide Street W,Toronto,ON,M5V 1R1
+11,11,ei7LSmqLOkiAp7aWLKD8KQ,Saks Food Hall,43.6517911812177,-79.3801985202755,1785.2028508870417,$$,2,22,4.0,Food Court,n/a,176 Yonge Street,Toronto,ON,M5C 2L7
+12,12,nOmR49imE4GtmwWVLkHS9A,Pancho y Emiliano,43.65438,-79.40219,1118.8409019133521,$$,2,92,3.5,Mexican,n/a,200 Augusta Ave,Toronto,ON,M5T 2L8
+13,13,6GlJ5Tbhht43pXIRx7ygtw,Alex Rei Dos Leitoes,43.64893,-79.42019,2553.489423872301,$,1,19,4.0,Sandwiches,Portuguese,219 Av Ossington,Toronto,ON,M6J 2Z8
+14,14,6rTzYUGghp3XHPgOGaO8UQ,Hawthorne Food and Drink,43.6523675077454,-79.376226067543,1981.600312424515,$$,2,69,3.5,Canadian (New),Caterers,60 Richmond Street E,Toronto,ON,M5C 1N8
+15,15,5OHW43gqdoWOGWDmUmps6A,Maja Indian Cuisine,43.6715317,-79.3779373,1663.7249856410228,$$,2,25,3.5,Indian,n/a,345 Bloor Street E,Toronto,ON,M4W
+16,16,CotnZvwxCubcWqsG2hK0gw,Perla Restaurant,43.65549,-79.41148,1538.3997668766601,$$,2,14,3.5,Portuguese,n/a,539 College St,Toronto,ON,M6G 1A9
+17,17,NdvUzwz3jAM7Hao_UPMu6g,Popeyes Louisiana Kitchen,43.65768,-79.39955,698.7013609542034,$,1,15,2.5,Chicken Wings,Fast Food,267 College Street,Toronto,ON,M5T 1R6
+18,18,LynxmsOdpc_odmkSM2bA_w,Krepesz Cafe & Bar,43.65511,-79.4020199,1042.4239340713234,$$,2,78,3.5,Creperies,Cafes,253 Augusta Avenue,Toronto,ON,M5T 2L8
+19,19,kMgdZVLzAXM1JQwFsPXIlg,Indian Roti House,43.6644707,-79.380043,1249.072438026702,$$,2,34,3.5,Indian,n/a,471 Church Street,Toronto,ON,M4Y 2C5
+20,20,V1pdHQOPAgIWdKX9bMQWjg,Pizza Shab,43.6572,-79.37832,1546.0695984933304,$$$,3,9,4.0,Halal,Pizza,113 Bond Street,Toronto,ON,M5B 1Y2
+21,21,3XVAfJQdX327pqNZg5KV5g,Bazara Asian Cuisine,43.6484972,-79.4205958,2590.497775045088,$$,2,108,4.0,Asian Fusion,Sushi Bars,188 Ossington Avenue,Toronto,ON,M6J 2Z7
+22,22,lDkKSL4AT2faZwClvCvLnw,Golden Diner Family Restaurant,43.66203,-79.37732,1478.0301457917083,$$,2,34,3.5,Greek,Diners,105 Carlton Street,Toronto,ON,M5B 1M1
+23,23,9DLBwCS4hu_xaiENCbYXbQ,Chae Chester Fried Chicken Express,43.6711,-79.37509,1869.5791464957315,$,1,8,3.5,Restaurants,n/a,23 Howard Street,Toronto,ON,M4X 1J6
+24,24,3xUoXuEgJhHlSgBsSfKeCQ,W Burger Bar,43.6614620733212,-79.3836429192963,990.9742636883735,$$,2,273,3.5,Burgers,Breakfast & Brunch,10 College Street,Toronto,ON,M5G 1K2
+25,25,ACmcdphAR4UpOeHa6oQe9A,Chinese Dumpling House,43.66435,-79.4141099,1492.4380242488844,NO $,0,4,5.0,Chinese,n/a,623 Bloor Street,Toronto,ON,M6G 1K8
+26,26,2xn5cEvhZFxFRcnxhcT0Yw,Planta Burger,43.65115,-79.37929,1898.5487644784396,$$,2,57,3.5,Burgers,Desserts,4 Temperance Street,Toronto,ON,M5H 1Y4
+27,27,BJ7lAnKYnqEs-Jjx7_twXA,Sid's Cafe,43.6624794,-79.3987503,253.20738667337866,NO $,0,2,2.5,Cafes,n/a,100 St. George Street,Toronto,ON,M5S 3G3
+28,28,PFLnr1C9K9FHQc-GOvtnHQ,Village Juicery,43.65604,-79.4113,1493.6039995479364,$$,2,16,5.0,Juice Bars & Smoothies,Live/Raw Food,540 College Street,Toronto,ON,M6G 1A6
+29,29,UpEVdq_euH-5mqCIgUAd2Q,Le Papillon On Front,43.64843,-79.37327,2457.0122385153777,$$,2,147,3.5,French,Breakfast & Brunch,69 Front Street E,Toronto,ON,M5E 1B5
+30,30,JePdoHGJ2kWRQkfGx0T34Q,Churrasqueira Do Sardinha,43.65506,-79.41808,2019.659778420319,$,1,14,3.5,Portuguese,French,707 College Street W,Toronto,ON,M6G 1C2
+31,31,SxjNgkzAlUG-wt2rSbc2HQ,New Ho King,43.65611,-79.39967,854.3696414999333,$$,2,162,2.5,Chinese,n/a,410 Spadina Ave,Toronto,ON,M5T 2G7
+32,32,a1WWhLOWUC3wZLhkXdAIJQ,French Made,43.6453442786002,-79.392253737767,2013.183983885033,$$,2,19,4.0,Cafes,Bakeries,80 Blue Jays Way,Toronto,ON,M5V 2G3
+33,33,sS8uO7UuWcW_17AMga4yKg,Nutella Cafe,43.6619612696382,-79.3798379841308,1284.6384098982328,$,1,10,4.0,Creperies,Cafes,60 Carlton Street,Toronto,ON,M5B 1J2
+34,34,35Mdu_9unGIn4pMoQByWFQ,Signatures Restaurant,43.66871,-79.39636,586.0949987715379,$$$,3,10,3.0,Canadian (New),n/a,220 Bloor St W,Toronto,ON,M5S 1W2
+35,35,i2sSSIrgQg1fVjqYXZLvNA,PAT Central Market,43.66381,-79.41621,1655.4544071281668,$,1,85,4.0,Grocery,Korean,675 Bloor Street W,Toronto,ON,M6G 1L3
+36,36,oOGLDf2rzeCPS7UQ8hhPlQ,SU&BU,43.6472448,-79.3901579,1837.6210006870976,$$,2,148,3.5,Sushi Bars,n/a,106 John Street,Toronto,ON,M5H 1X9
+37,37,gWainRDwQaDg7YRZAaotdw,Kasai Grill House,43.65532,-79.41615,1869.3941310382786,$$,2,66,3.5,Korean,Barbeque,650 College Street,Toronto,ON,M6G 1B8
+38,38,Vf_RHj0f1VViEF6OYnEfUA,Quinn's Steakhouse & Irish Bar,43.65088,-79.38318,1701.3156405553696,$$$,3,100,3.5,Irish,Steakhouses,The Sheraton Centre,Toronto,ON,M5H 2A3
+39,39,XBKhVOYDA3AaAN6k3TOijQ,The Burger's Priest,43.6660359,-79.4078635,1025.063333040416,$$,2,33,3.0,Burgers,n/a,406 Bloor Street W,Toronto,ON,M5S 1X5
+40,40,kQGJ5QUJ0BAIpmYYtf7Uqw,Upper Deck By Fran's,43.661469,-79.384068,957.359818615609,$$,2,36,3.0,Bars,American (Traditional),2-20 College Street,Toronto,ON,M5G 1K2
+41,41,g6CiDcpi2OPycTUORSoXEA,Ramen Misoya,43.6468389874027,-79.4063058393838,2016.95465554895,NO $,0,45,4.0,Ramen,n/a,646 Queen Street W,Toronto,ON,M6J 1E4
+42,42,buMP3nR_-EL2ROE7nKMBUg,Wafflian - Belgian Waffle and Cupcake Bar,43.6537434,-79.391033,1124.6526891804297,$$,2,24,3.5,Waffles,n/a,109 McCaul Street,Toronto,ON,M5T 3K5
+43,43,P458E2QRUgrCTWZfKoO7bg,Hangry Burger,43.66092,-79.38266,1088.0267694057047,$$,2,20,3.5,Burgers,n/a,437 Yonge Street,Toronto,ON,M5B 1T3
+44,44,x7V4wx8O_5EWP1SacNtWSQ,Flock Rotisserie + Greens,43.6704386456214,-79.3827232838945,1313.185902471789,$$,2,26,3.5,Salad,n/a,175 Bloor Street E,Toronto,ON,M4W 3R8
+45,45,TFtObYQyEnZ0kpPWOn7YDw,Pizzeria Bosco,43.6570927605646,-79.3875997168975,947.5339101022631,NO $,0,3,4.5,Pizza,n/a,Toronto Eaton Centre,Toronto,ON,M5H 3X4
+46,46,jeWIm7obsv14C6JHh1OadA,Home Of Hot Taste,43.66434,-79.41566,1611.4340588436974,$$,2,39,3.5,Korean,n/a,658 Bloor Street W,Toronto,ON,M6G 1K9
+47,47,VAE8gdXm7JAml0CLTs3kNA,O'Grady's Tap & Grill,43.65888,-79.39376,511.34623161088643,$$,2,42,2.5,Pubs,Irish,171 College Street,Toronto,ON,M5T 1P7
+48,48,bAU0v3UqPS20qMGwgI5rCg,Pilot Coffee Roasters,43.64552,-79.38031,2345.8198322801936,$,1,38,4.0,Cafes,n/a,65 Front Street W,Toronto,ON,M5J 1E6
+49,49,7T1XVTSocHcOu2H5v2Iqog,Smoke's Weinerie,43.65831,-79.39981,643.7201845836518,$,1,11,2.0,Poutineries,Delis,457 Spadina Avenue,Toronto,ON,M5S 2G7
